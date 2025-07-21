@@ -117,6 +117,5 @@ tracert web.local
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=11,17,25" />
-  <b>🚀 Packet Tracer is where theory meets hands-on learning!</b>
 </div>
 ```
